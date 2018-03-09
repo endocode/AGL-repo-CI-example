@@ -89,4 +89,7 @@
 
   <!-- SmartDeviceLink layer -->
   <project name="phongt/meta-sdl" path="meta-sdl" remote="github" revision="60c9fe8a4a9c6ca95f222685f8d6248f16236f2a" upstream="release/4.4.0"/>
+
+  <!-- Golang layer -->
+  <project name="endocode/meta-golang" path="meta-golang" remote="github" revision="552c8085519df0a0e5d13114579ef80196e10058" upstream="rocko"/>
 </manifest>
